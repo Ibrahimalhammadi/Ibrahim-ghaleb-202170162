@@ -5,7 +5,7 @@ ENG.YOUSEF Alqaiz
 
 Brain Tumor Detection Project
 
-Project Overview
+##Project Overview
 
 This project aims to detect brain tumors using various machine learning techniques. The workflow includes image processing, embedding extraction, classification, and evaluation. It provides an automated way to identify tumors in brain images, potentially aiding in medical diagnosis.
 
